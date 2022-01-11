@@ -5,3 +5,5 @@ I´m a young Java/Arduino developer from Germany. Java is my main programming la
 ## My Github statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFactoryT)](https://github.com/anuraghazra/github-readme-stats)
 
+# Main skills: Java, Arduino
+# Sketched skills: HTML, CSS, Javascript, C++, Unity3D-C#
