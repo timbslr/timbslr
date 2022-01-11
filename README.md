@@ -4,7 +4,7 @@ I´m a young Java/Arduino developer from Germany. Java is my main programming la
 
 ## My Github statistics:
 [![CodingFactoryT's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight)](https://github.com/CodingFactoryT/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingFactoryT&theme=tokyonight&card_width=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingFactoryT&theme=tokyonight&card_width=1000)
 
 ### Main skills: Java, Arduino
 ### Sketched skills: HTML, CSS, Javascript, C++, Unity3D-C#
