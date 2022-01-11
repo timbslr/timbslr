@@ -8,12 +8,17 @@ I´m a young Java/Arduino developer from Germany. Java is my main programming la
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingFactoryT&theme=tokyonight&card_width=495)
 
 ### Main skills: 
-☕Java\n
+☕Java
+
 🎫Arduino
 
 ### Some experience: 
-🌐HTML 
+🌐HTML
+
 📜CSS
+
 💻Javascript
+
 📟C++
+
 🎮Unity3D-C#
