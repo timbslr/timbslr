@@ -9,7 +9,7 @@ I´m a young Java/Arduino developer from Germany. Java is my main programming la
 
 ### My main skills are: 
 ☕Java         <br>
-🥏Arduino (a hardware board that you can program)
+🥏Arduino (a hardware board with GPIO´s that you can program)
 
 ### I have some experiences in: 
 🌐HTML         <br>
