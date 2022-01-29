@@ -9,11 +9,11 @@ I´m a young Java/Arduino developer from Germany. Java is my main programming la
 
 ### My main skills are: 
 ☕Java         <br>
-🥏Arduino
+🥏Arduino (a hardware board that you can program)
 
 ### I have some experiences in: 
 🌐HTML         <br>
 📜CSS          <br>
 💻Javascript   <br>
 📟C++          <br>
-🎮Unity3D-C#
+🎮Unity3D (a game engine that uses C#)
