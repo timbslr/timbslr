@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I´m a young Java/Arduino developer from Germany. Java is my main programming language, but I also have some experience other areas. I´m interested in hardware programming (e.g. Arduino´s GPIO pins), developing small applications (e.g. my visual sorting algorithm project) and writing algorithms to solve problems, like the one of [Advent of Code](https://adventofcode.com).
+I´m a young Java/Arduino developer from Germany. Java is my main programming language, but I also have some experience other areas. I´m interested in hardware programming (e.g. Arduino´s GPIO pins), developing small applications (e.g. my visual sorting algorithm project) and writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com).
 
 ## My GitHub statistics:
 ![CodingFactoryT's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight)
