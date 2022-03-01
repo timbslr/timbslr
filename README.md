@@ -17,5 +17,5 @@ I´m interested in Arduino hardware programming, developing small applications (
 📜CSS          <br>
 💻Javascript   <br>
 📟C++          <br>
-🎮Unity3D (a game engine that uses C#)
+🎮Unity3D (a game engine that uses C#) <br>
 📡SQL
