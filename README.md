@@ -18,3 +18,4 @@ I´m interested in Arduino hardware programming, developing small applications (
 💻Javascript   <br>
 📟C++          <br>
 🎮Unity3D (a game engine that uses C#)
+📡SQL
