@@ -10,7 +10,7 @@ I´m interested in Arduino hardware programming, developing small applications (
 
 ### My main skills are: 
 ☕Java         <br>
-🥏Arduino (hardware boards with GPIO pins for programming)
+🌀Arduino (hardware boards with GPIO pins for programming)
 
 ### I have some experiences in: 
 🌐HTML         <br>
