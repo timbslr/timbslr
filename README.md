@@ -23,8 +23,60 @@ I´m interested in Arduino hardware programming, developing small applications (
 ## Dates
 In the following table, you´ll see when the different repositories were created: <br>
 <table>
-  <tr>
-    <th> Date </th>
-    <th> Repository </th>
-  </tr>
+    <tr>
+        <th>Date</td>
+        <th>Repository </td>
+    </tr>
+    <tr>
+        <td>09.01.2022</td>
+        <td>Advent-of-Code </td>
+    </tr>
+    <tr>
+        <td>09.01.2022</td>
+        <td>Visual-Algorithm-Sorter </td>
+    </tr>
+    <tr>
+        <td>09.01.2022</td>
+        <td>Console-TicTacToe </td>
+    </tr>
+    <tr>
+        <td>11.01.2022</td>
+        <td>CodingFactoryT </td>
+    </tr>
+    <tr>
+        <td>29.01.2022</td>
+        <td>Text-Binary-Converter </td>
+    </tr>
+    <tr>
+        <td>04.02.2022</td>
+        <td>Pong </td>
+    </tr>
+    <tr>
+        <td>09.02.2022</td>
+        <td>Cryptography </td>
+    </tr>
+    <tr>
+        <td>09.02.2022</td>
+        <td>Weather-WebScraper </td>
+    </tr>
+    <tr>
+        <td>17.02.2022</td>
+        <td>Snake </td>
+    </tr>
+    <tr>
+        <td>20.02.2022</td>
+        <td>Random-Person-Generator </td>
+    </tr>
+    <tr>
+        <td>27.02.2022</td>
+        <td>codingfactoryt.github.io </td>
+    </tr>
+    <tr>
+        <td>09.03.2022</td>
+        <td>The-Robbery </td>
+    </tr>
+    <tr>
+        <td>12.03.2022</td>
+        <td>LeetCode </td>
+    </tr>
 </table>
