@@ -30,11 +30,11 @@ In the following table, you´ll see when the different repositories were created
 |09.01.2022|Console-TicTacToe                           |`3`              |
 |11.01.2022|CodingFactoryT                              |`4`              |
 |29.01.2022|Text-Binary-Converter                       |`5`              |
-|04.02.2022|Pong	                                    |`6`              |
-|09.02.2022|Cryptography	                            |`7`              |
+|04.02.2022|Pong	                                      |`6`              |
+|09.02.2022|Cryptography	                              |`7`              |
 |09.02.2022|Weather-WebScraper	                        |`8`              |
-|17.02.2022|Snake	                                    |`9`              |
+|17.02.2022|Snake	                                      |`9`              |
 |20.02.2022|Random-Person-Generator	                    |`10`             |
-|27.02.2022|codingfactoryt.github.io	                |`11`             |
+|27.02.2022|codingfactoryt.github.io	                  |`11`             |
 |09.03.2022|The-Robbery	                                |`12`             |
-|12.03.2022|LeetCode	                                |`13`             |
+|12.03.2022|LeetCode	                                  |`13`             |
