@@ -22,61 +22,19 @@ I´m interested in Arduino hardware programming, developing small applications (
 
 ## Dates
 In the following table, you´ll see when the different repositories were created: <br>
-<table>
-    <tr>
-        <th>Date</td>
-        <th>Repository </td>
-    </tr>
-    <tr>
-        <td>09.01.2022</td>
-        <td>Advent-of-Code </td>
-    </tr>
-    <tr>
-        <td>09.01.2022</td>
-        <td>Visual-Algorithm-Sorter </td>
-    </tr>
-    <tr>
-        <td>09.01.2022</td>
-        <td>Console-TicTacToe </td>
-    </tr>
-    <tr>
-        <td>11.01.2022</td>
-        <td>CodingFactoryT </td>
-    </tr>
-    <tr>
-        <td>29.01.2022</td>
-        <td>Text-Binary-Converter </td>
-    </tr>
-    <tr>
-        <td>04.02.2022</td>
-        <td>Pong </td>
-    </tr>
-    <tr>
-        <td>09.02.2022</td>
-        <td>Cryptography </td>
-    </tr>
-    <tr>
-        <td>09.02.2022</td>
-        <td>Weather-WebScraper </td>
-    </tr>
-    <tr>
-        <td>17.02.2022</td>
-        <td>Snake </td>
-    </tr>
-    <tr>
-        <td>20.02.2022</td>
-        <td>Random-Person-Generator </td>
-    </tr>
-    <tr>
-        <td>27.02.2022</td>
-        <td>codingfactoryt.github.io </td>
-    </tr>
-    <tr>
-        <td>09.03.2022</td>
-        <td>The-Robbery </td>
-    </tr>
-    <tr>
-        <td>12.03.2022</td>
-        <td>LeetCode </td>
-    </tr>
-</table>
+
+|Date      |Repository                                  |Repository Number|
+|----------|--------------------------------------------|:---------------:|
+|09.01.2022|Advent-of-Code                              |`1`              |
+|09.01.2022|Visual-Algorithm-Sorter                     |`2`              |
+|09.01.2022|Console-TicTacToe                           |`3`              |
+|11.01.2022|CodingFactoryT                              |`4`              |
+|29.01.2022|Text-Binary-Converter                       |`5`              |
+|04.02.2022|Pong	                                    |`6`              |
+|09.02.2022|Cryptography	                            |`7`              |
+|09.02.2022|Weather-WebScraper	                        |`8`              |
+|17.02.2022|Snake	                                    |`9`              |
+|20.02.2022|Random-Person-Generator	                    |`10`             |
+|27.02.2022|codingfactoryt.github.io	                |`11`             |
+|09.03.2022|The-Robbery	                                |`12`             |
+|12.03.2022|LeetCode	                                |`13`             |
