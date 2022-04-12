@@ -7,16 +7,16 @@ I´m interested in Arduino hardware programming, developing small applications (
 
 <br>
 
-## My GitHub statistics:      
+## 📊My GitHub statistics:      
   ![CodingFactoryT's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight) 
   
   ![CodingsFactoryT´s GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495)  
 
-### My main skills are: 
+### ⚒️My main skills are: 
 ☕Java         <br>
 🌀Arduino (hardware boards with GPIO pins for programming)
 
-### I have some experiences in: 
+### 🔨I have some experiences in: 
 🌐HTML         <br>
 📜CSS          <br>
 💻Javascript   <br>
@@ -24,7 +24,7 @@ I´m interested in Arduino hardware programming, developing small applications (
 🎮Unity3D (a game engine that uses C#) <br>
 📡SQL
 
-## Dates
+## 📆Dates
 In the following table, you´ll see when the different repositories were created: <br>
 
 |Date      |Repository                                  |Repository Number|
