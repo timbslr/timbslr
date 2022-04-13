@@ -16,7 +16,7 @@ I´m interested in Arduino hardware programming, developing small applications (
 ☕Java         <br>
 🌀Arduino (hardware boards with GPIO pins for programming)
 
-### 🔨I have some experiences in: 
+### 🔨I have some experience in: 
 🌐HTML         <br>
 📜CSS          <br>
 💻Javascript   <br>
