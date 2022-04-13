@@ -25,7 +25,7 @@ I´m interested in Arduino hardware programming, developing small applications (
 📡SQL
 
 ## 📆Dates
-In the following table you can see when the different repositories were created: <br>
+In the following table you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
 
 |Date      |Repository                                  |Repository Number|
 |----------|--------------------------------------------|:---------------:|
