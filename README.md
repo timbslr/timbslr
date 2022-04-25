@@ -4,6 +4,7 @@
 
 I´m a young Java/Arduino developer from Germany. Java is my main programming language, but I also have a few experiences in other areas. <br>
 I´m interested in Arduino hardware programming, developing small applications (e.g. my Visual Algorithm Sorter or my Pong game) and writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
+I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 
 <br>
 
