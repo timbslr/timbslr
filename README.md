@@ -29,6 +29,17 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 📡SQL
 
 ## 📆Dates
+
+In the following table you can see when I started with my main programming languages I focused on during that time: <br>
+
+|Date started|Date ended |Programming Language/FrameWork|Notes                                                                                   |
+|:----------:|:---------:|:----------------------------:|:--------------------------------------------------------------------------------------:|
+|Summer 2020 |*          |Arduino (C, C++)   	          |I mostly work with Arduino in the winter                                                |
+|Spring 2021 |Autumn 2021|Unity (C#)                    |I enjoyed making games but after a while I wanted to be independant framework like Unity|
+|Autumn 2021 |Winter 2021|C++                           |I liked the language at the beginning, but quickly realized that I don´t like to program that close to the hardware. Maybe that´ll change in the future ;)
+|Winter 2021 |*          |Java                          |I really like Java because it´s platfrom independant and there´s very much to learn     |
+
+`*` means that I work with that programming language/framework until today <br> <br> 
 In the following table you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
 
 |Date      |Repository                                  |Repository Number|
