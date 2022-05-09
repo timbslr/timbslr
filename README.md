@@ -30,7 +30,7 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 
 ## 📆Dates
 
-In the following table you can see when I started with my main programming languages I focused on during that time: <br>
+In the following table you can see when I started/ended with the bigger programming languages: <br>
 
 |Date started|Date ended |Programming Language/FrameWork|Notes                                                                                   |
 |:----------:|:---------:|:----------------------------:|:--------------------------------------------------------------------------------------:|
