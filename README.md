@@ -16,11 +16,11 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 ## 🔐My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
 
-### 🛠️My main skills are: 
+## 🛠️My main skills are: 
 ☕Java         <br>
 🌀Arduino (hardware boards with GPIO pins for programming)
 
-### 🔨I have some experience in: 
+## 🔨I have some experience in: 
 🌐HTML         <br>
 📜CSS          <br>
 💻Javascript   <br>
