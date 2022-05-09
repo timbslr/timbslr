@@ -32,7 +32,7 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 
 In the following table you can see when I started/ended with the bigger programming languages: <br>
 
-|Date started|Date ended |Programming Language/FrameWork|Notes                                                                                   |
+|Date started|Date ended |Programming Language/Framework|Notes                                                                                   |
 |:----------:|:---------:|:----------------------------:|:--------------------------------------------------------------------------------------:|
 |Summer 2020 |*          |Arduino (C, C++)   	          |I mostly work with Arduino in the winter                                                |
 |Spring 2021 |Autumn 2021|Unity (C#)                    |I enjoyed making games but after a while I wanted to be independant framework like Unity|
