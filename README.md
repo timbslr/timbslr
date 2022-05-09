@@ -13,7 +13,7 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
   
   ![CodingsFactoryT´s GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495)  
 
-## My TryHackMe statistics:
+## 🔐My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
 
 ### 🛠️My main skills are: 
