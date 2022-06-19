@@ -9,10 +9,11 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 <br>
 
 ## 📊My GitHub statistics:      
-  ![CodingFactoryT's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight) 
+  ![CodingFactoryT's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight) 
   
-  ![CodingsFactoryT´s GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495)  
-
+  ![CodingsFactoryT´s GitHub Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495) 
+  
+  ![CodingsFactoryT´s GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight)
 ## 🔐My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
 
