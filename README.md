@@ -44,7 +44,7 @@ In the following table you can see when I started/ended with the bigger programm
 `*` means that I work with that programming language/framework until today <br> <br> 
 In the following table you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
 
-|Date      |Repository                                  |Repository Number|
+|Date      |Repository Name                             |Repository Number|
 |----------|--------------------------------------------|:---------------:|
 |09.01.2022|Advent-of-Code                              |`1`              |
 |09.01.2022|Visual-Algorithm-Sorter                     |`2`              |
