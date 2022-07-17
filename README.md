@@ -1,36 +1,36 @@
-### Hey ?
+### Hey :wave:
 
 <img src="CodingFactoryT_Logo.png" align ="right">
 
-I´m a young Java/Arduino developer from Germany. Java is my main programming language, but I also have a few experiences in other areas. <br>
-I´m interested in Arduino hardware programming, developing small applications (e.g. my Visual Algorithm Sorter or my Pong game) and writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
+IÂ´m a young Java/Arduino developer from Germany. Java is my main programming language, but I also have a few experiences in other areas. <br>
+IÂ´m interested in Arduino hardware programming, developing small applications (e.g. my Visual Algorithm Sorter or my Pong game) and writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
 I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 
 <br>
 
-## ?My GitHub statistics:      
+## :bar_chart:My GitHub statistics:      
   ![CodingFactoryT's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight) 
   
-  ![CodingsFactoryT´s GitHub Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495) 
+  ![CodingsFactoryTÂ´s GitHub Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495) 
   
-  ![CodingsFactoryT´s GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight)
+  ![CodingsFactoryTÂ´s GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight)
   
-## ?My TryHackMe statistics:
+## :closed_lock_with_key:My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
 
-## ??My main skills are: 
-?Java         <br>
-?Arduino (hardware boards with GPIO pins for programming)
+## :hammer_and_wrench:My main skills are: 
+:coffee:Java         <br>
+:infinity:Arduino (hardware boards with GPIO pins for programming)
 
-## ?I have some experience in: 
-?HTML         <br>
-?CSS          <br>
-?Javascript   <br>
-?C++          <br>
-?Unity3D (a game engine that uses C#) <br>
-?SQL
+## :hammer:I have some experience in: 
+:globe_with_meridians:HTML         <br>
+:scroll:CSS          <br>
+:desktop_computer:Javascript   <br>
+:pager:C++          <br>
+:video_game:Unity3D (a game engine that uses C#) <br>
+:satellite:SQL
 
-## ?Dates
+## :calendar:Dates
 
 In the following table you can see when I started/ended with the bigger programming languages: <br>
 
@@ -38,8 +38,8 @@ In the following table you can see when I started/ended with the bigger programm
 |:----------:|:---------:|:----------------------------:|:--------------------------------------------------------------------------------------:|
 |Summer 2020 |*          |Arduino (C, C++)   	          |I mostly work with Arduino in the winter                                                |
 |Spring 2021 |Autumn 2021|Unity (C#)                    |I enjoyed making games a lot, but after a while, I wanted to be independant from a framework like Unity|
-|Autumn 2021 |Winter 2021|C++                           |I liked the language at the beginning, but quickly realized that I don´t like to program that close to the hardware. Maybe that´ll change in the future ;)
-|Winter 2021 |*          |Java                          |I really like Java because it´s platform independent and there´s very much to learn|
+|Autumn 2021 |Winter 2021|C++                           |I liked the language at the beginning, but quickly realized that I donÂ´t like to program that close to the hardware. Maybe thatÂ´ll change in the future ;)
+|Winter 2021 |*          |Java                          |I really like Java because itÂ´s platform independent and thereÂ´s very much to learn|
 
 `*` means that I work with that programming language/framework until today <br> <br> 
 In the following table you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
