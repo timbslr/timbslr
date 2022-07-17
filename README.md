@@ -68,4 +68,3 @@ In the following table you can see when the different repositories were created 
 |07.07.2022|MathLib                                                                                             |`20`             |
 |14.07.2022|Ulam-Spiral                                                                                         |`21`             |
 |17.07.2022|GitHub-Profile-Readme-Updater                                                                       |`22`             |
-Test
