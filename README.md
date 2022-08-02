@@ -46,6 +46,7 @@ In the following table you can see when I started/ended with the bigger programm
 |Spring 2021 |Autumn 2021|Unity (C#)                    |I enjoyed making games a lot, but after a while, I wanted to be independant from a framework like Unity|
 |Autumn 2021 |Winter 2021|C++                           |I liked the language at the beginning, but quickly realized that I don't like to program that close to the hardware. Maybe that'll change in the future ;)
 |Winter 2021 |*          |Java                          |I really like Java because it's platform independent and there's very much to learn|
+|Summer 2022 |*          |C#/WPF                        |I mainly started with C# because of the WPF, which is, in my opinion, a way better GUI Framework than Java Swing ;)|
 
 `*` means that I work with that programming language/framework until today <br> <br> 
 In the following table you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
