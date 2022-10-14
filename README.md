@@ -42,11 +42,11 @@ In the following table you can see when I started/ended with the bigger programm
 
 |Date started|Date ended |Programming Language/Framework|Notes                                                                                   |
 |:----------:|:---------:|:----------------------------:|:--------------------------------------------------------------------------------------:|
-|Summer 2020 |*          |Arduino (C, C++)   	          |I mostly work with Arduino in the winter                                                |
-|Spring 2021 |Autumn 2021|Unity (C#)                    |I enjoyed making games a lot, but after a while, I wanted to be independant from a framework like Unity|
-|Autumn 2021 |Winter 2021|C++                           |I liked the language at the beginning, but quickly realized that I don't like to program that close to the hardware. Maybe that'll change in the future ;)
+|Summer 2020 |*          |Arduino (C, C++)   	          |I like that C/C++ is such a fast language, but I use it for hardware projects only        |
+|Spring 2021 |Autumn 2021|Unity (C#)                    |I enjoyed making games a lot, but after a while, I wanted to get known to normal programming concepts and not starting with a big framework like Unity|
+|Autumn 2021 |Winter 2021|C++                           |I only code in C++ when programming with hardware, as it is much harder than other languages that were developed for non-hardware-programming projects|
 |Winter 2021 |*          |Java                          |I really like Java because it's platform independent and there's very much to learn|
-|Summer 2022 |*          |C#/WPF                        |I mainly started with C# because of the WPF, which is, in my opinion, a way better GUI Framework than Java Swing ;)|
+|Summer 2022 |*          |C#/WPF                        |I mainly started with C# because of WPF (Windows presentation foundation) which is a very nice framework for GUI|
 
 `*` means that I work with that programming language/framework until today <br> <br> 
 In the following table you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
