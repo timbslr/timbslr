@@ -24,6 +24,8 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 ## :closed_lock_with_key:My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
 
+<br>
+
 ## :hammer_and_wrench:My main skills are: 
 :coffee:Java         <br>
 :infinity:Arduino (hardware boards with GPIO pins for programming)
@@ -34,7 +36,11 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 :desktop_computer:Javascript   <br>
 :pager:C++          <br>
 :video_game:Unity3D (a game engine that uses C#) <br>
-:satellite:SQL
+:satellite:SQL <br>
+:hash:C# <br>
+:computer:WPF (Windows Presentation Foundation) <br>
+
+<br>
 
 ## :calendar:Dates
 
