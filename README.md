@@ -59,20 +59,17 @@ In the following table you can see when the different repositories were created 
 
 |Date      |Repository Name                                                                                     |Repository Number|
 |----------|----------------------------------------------------------------------------------------------------|:---------------:|
-|09.01.2022|Console-TicTacToe                                                                                   |`1`              |
-|09.01.2022|Visual-Algorithm-Sorter                                                                             |`2`              |
-|09.01.2022|Advent-of-Code                                                                                      |`3`              |
-|11.01.2022|CodingFactoryT                                                                                      |`4`              |
-|04.02.2022|Pong                                                                                                |`5`              |
-|17.02.2022|Snake                                                                                               |`6`              |
-|20.02.2022|Random-Person-Generator                                                                             |`7`              |
-|27.02.2022|codingfactoryt.github.io                                                                            |`8`              |
-|12.03.2022|LeetCode                                                                                            |`9`              |
-|13.05.2022|Abiturrechner                                                                                       |`10`             |
-|18.05.2022|Reaktionsspiel                                                                                      |`11`             |
-|05.06.2022|Barcode-Generator                                                                                   |`12`             |
-|11.06.2022|Caesar-Cracker                                                                                      |`13`             |
-|07.07.2022|MathLib                                                                                             |`14`             |
-|14.07.2022|Ulam-Spiral                                                                                         |`15`             |
-|17.07.2022|GitHub-Profile-Readme-Updater                                                                       |`16`             |
-|09.08.2022|On-Screen-Keyboard                                                                                  |`17`             |
+|09.01.2022|Visual-Algorithm-Sorter                                                                             |`1`              |
+|09.01.2022|Advent-of-Code                                                                                      |`2`              |
+|11.01.2022|CodingFactoryT                                                                                      |`3`              |
+|04.02.2022|Pong                                                                                                |`4`              |
+|17.02.2022|Snake                                                                                               |`5`              |
+|20.02.2022|Random-Person-Generator                                                                             |`6`              |
+|12.03.2022|LeetCode                                                                                            |`7`              |
+|13.05.2022|Abiturrechner                                                                                       |`8`              |
+|18.05.2022|Reaktionsspiel                                                                                      |`9`              |
+|05.06.2022|Barcode-Generator                                                                                   |`10`             |
+|11.06.2022|Caesar-Cracker                                                                                      |`11`             |
+|14.07.2022|Ulam-Spiral                                                                                         |`12`             |
+|17.07.2022|GitHub-Profile-Readme-Updater                                                                       |`13`             |
+|09.08.2022|On-Screen-Keyboard                                                                                  |`14`             |
