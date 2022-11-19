@@ -73,3 +73,4 @@ In the following table you can see when the different repositories were created 
 |14.07.2022|Ulam-Spiral                                                                                         |`12`             |
 |17.07.2022|GitHub-Profile-Readme-Updater                                                                       |`13`             |
 |09.08.2022|On-Screen-Keyboard                                                                                  |`14`             |
+|22.10.2022|Path-Finding-Visualizer                                                                             |`15`             |
