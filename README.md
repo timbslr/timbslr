@@ -74,3 +74,6 @@ In the following table you can see when the different repositories were created 
 |17.07.2022|GitHub-Profile-Readme-Updater                                                                       |`13`             |
 |09.08.2022|On-Screen-Keyboard                                                                                  |`14`             |
 |22.10.2022|Path-Finding-Visualizer                                                                             |`15`             |
+|31.12.2022|Project-Line-Counter                                                                                |`16`             |
+|10.01.2023|codingfactoryt.github.io                                                                            |`17`             |
+|17.01.2023|Geo-Image-Viewer                                                                                    |`18`             |
