@@ -9,7 +9,8 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 
 ### Contact
 <ul>
-  <li> Discord: CodingFactoryT#2588 </li>
+  <li> Discord Profile: CodingFactoryT#2588 </li>
+  <li> Dicord Server: https://discord.gg/deftTGQzb2 </li>
   <li> Email: codingfactoryt@gmail.com</li>
 </ul>
   <br>
