@@ -40,7 +40,7 @@ I also like exploiting [TryHackMe](https://tryhackme.com) machines.
 :satellite:SQL <br>
 :hash:C# <br>
 :computer:WPF (Windows Presentation Foundation) <br>
-:iphone: React Native
+:iphone:React Native
 <br>
 
 ## :calendar:Dates
