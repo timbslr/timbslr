@@ -80,3 +80,5 @@ In the following table, you can see when the different repositories were created
 |17.01.2023|Geo-Image-Viewer                                                                                    |`18`             |
 |15.02.2023|PDF-Rotator                                                                                         |`19`             |
 |22.04.2023|Mechanum-Wheel-Car                                                                                  |`20`             |
+|23.07.2023|React-Native-Project-Structure                                                                      |`21`             |
+|11.10.2023|SP-Vertretungsplan                                                                                  |`22`             |
