@@ -23,8 +23,16 @@ I'm interested in Arduino hardware programming, developing small applications (e
   
 ## :closed_lock_with_key: My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
+<be>
 
-<br>
+## 3D-Modelling and 3D-Printing
+I design many parts for 3D-Printing, check them out here:
+<ul>
+  <li>Thingiverse: https://www.thingiverse.com/codingfactoryt/designs</li>
+  <li>Printables: https://www.printables.com/de/@CodingFactor_1960720/models</li>
+  <li>MakerWorld: https://makerworld.com/en/@CodingFactoryT</li>
+
+</ul>
 
 ## :hammer_and_wrench: Languages and Tools: 
 <p align="center"> 
