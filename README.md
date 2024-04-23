@@ -9,7 +9,7 @@ I am currently developing my problem-solving and competitive programming skills.
 
 ### Contact
 <ul>
-  <li> Discord Profile: CodingFactoryT#2588 </li>
+  <li> Discord Profile: CodingFactoryT / tag: codingfactoryt </li>
   <li> Dicord Server: https://discord.gg/deftTGQzb2 </li>
   <li> Email: codingfactoryt@gmail.com</li>
 </ul>
