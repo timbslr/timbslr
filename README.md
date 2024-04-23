@@ -96,3 +96,4 @@ In the following table, you can see when the different repositories were created
 |11.10.2023|SP-Vertretungsplan                                                                                  |`22`             |
 |01.12.2023|Planet-Jumper                                                                                       |`23`             |
 |10.02.2024|Arduino-Word-Clock                                                                                  |`24`             |
+|24.03.2024|deej                                                                                                |`25`             |
