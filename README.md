@@ -3,7 +3,7 @@
 <img src="CodingFactoryT_Logo_New.png" align ="right">
 
 I'm a young React Native, Java and Arduino developer from Germany. <br>
-I'm interested in Arduino hardware programming, developing small applications (e.g. my Visual Algorithm Sorter or my Pong game) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com). Additionally, I program bigger projects once in a while.
+I'm interested in Arduino hardware programming, developing small or medium applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com). Additionally, I program bigger projects once in a while.
 <br>
 
 ### Contact
