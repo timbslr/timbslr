@@ -2,16 +2,15 @@
 
 <img src="CodingFactoryT_Logo_New.png" align ="right">
 
-I'm a young React Native, Java and Arduino developer from Germany. <br>
-I'm interested in Arduino hardware programming, developing small or medium applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
+I'm a young software and hardware developer from Germany. <br>
+I'm interested in Arduino hardware programming, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
 <br>
-I am currently developing my problem-solving and competitive programming skills.
 
 ### Contact
 <ul>
-  <li> Discord Profile: CodingFactoryT / tag: codingfactoryt </li>
+  <li> Discord Profile: <a href="https://www.discordapp.com/users/624647993353568309">CodingFactoryT</a> </li>
   <li> Dicord Server: https://discord.gg/deftTGQzb2 </li>
-  <li> Email: codingfactoryt@gmail.com</li>
+  <li> Email: <a href="mailto:codingfactoryt@gmail.com">codingfactoryt@gmail.com</a> </li>
 </ul>
   <br>
   
@@ -29,9 +28,9 @@ I am currently developing my problem-solving and competitive programming skills.
 ## 3D-Modelling and 3D-Printing
 I design many parts for 3D-Printing, check them out here:
 <ul>
-  <li>Thingiverse: https://www.thingiverse.com/codingfactoryt/designs</li>
-  <li>Printables: https://www.printables.com/de/@CodingFactor_1960720/models</li>
-  <li>MakerWorld: https://makerworld.com/en/@CodingFactoryT</li>
+  <li> <a href="https://www.thingiverse.com/codingfactoryt/designs">Thingiverse</a> </li>
+  <li> <a href="https://www.printables.com/de/@CodingFactor_1960720">Printables</a> </li>
+  <li> <a href="https://makerworld.com/en/@CodingFactoryT">MakerWorld</a> </li>
 
 </ul>
 
@@ -48,9 +47,16 @@ I design many parts for 3D-Printing, check them out here:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="100" height="100"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/></a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/></a>  
+  <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" alt="latex" width="100" height="100"/></a>
 </p>
 
 ## :calendar: Dates
