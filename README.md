@@ -8,7 +8,7 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
 
 ### Contact
 <ul>
-  <li> Discord Profile: <a href="https://www.discordapp.com/users/624647993353568309">CodingFactoryT</a> </li>
+  <li> Discord Profile: <a href="https://www.discordapp.com/users/624647993353568309">CodingT</a> </li>
   <li> Dicord Server: https://discord.gg/deftTGQzb2 </li>
   <li> Email: <a href="mailto:codingfactoryt@gmail.com">codingfactoryt@gmail.com</a> </li>
 </ul>
