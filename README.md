@@ -67,7 +67,7 @@ In the following table, you can see when I started/ended with the bigger program
 |:----------:|:---------:|:----------------------------:|
 |Summer 2020 |*          |Arduino (C, C++)   	          |
 |Spring 2021 |Autumn 2021|Unity (C#)                    |
-|Autumn 2021 |Winter 2021|C++                           |
+|Autumn 2021 |*          |C/C++                         |
 |Winter 2021 |*          |Java                          |
 |Summer 2022 |Autumn 2023|C#/WPF                        |
 |Summer 2023 |*          |React Native                  |
