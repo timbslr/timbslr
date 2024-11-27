@@ -61,7 +61,7 @@ I design many parts for 3D-Printing, check them out here:
 
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/></a>  
-  <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" alt="latex" width="100" height="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png](https://de.m.wikipedia.org/wiki/Datei:LaTeX_logo.svg)" alt="latex" width="100" height="100"/></a>
 </p>
 
 ## :calendar: Dates
