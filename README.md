@@ -104,4 +104,4 @@ In the following table, you can see when the different repositories were created
 |10.02.2024|Arduino-Word-Clock                                                                                  |`19`             |
 |24.03.2024|deej                                                                                                |`20`             |
 |25.09.2024|Part-DB-server                                                                                      |`21`             |
-|05.01.2025|Automatic-Chess-Board                                                                               |`22`             |
+|05.01.2025|PilotChess-Automatic-Chess-Board                                                                    |`22`             |
