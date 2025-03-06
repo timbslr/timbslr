@@ -22,12 +22,19 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
 
 <br>
 
-## :bar_chart: My GitHub statistics:      
-  ![CodingFactoryT's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight) 
-  
-  ![CodingsFactoryT's GitHub Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495&layout=compact)
-  
-  ![CodingsFactoryT's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight)
+## :bar_chart: My GitHub statistics: 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight">
+  <img alt="CodingFactoryT's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=shadow_blue"">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495&layout=compact">
+  <img alt="CodingsFactoryT's GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=shadow_blue&card_width=495&layout=compact"">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight">
+  <img alt="CodingsFactoryT's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=shadow_blue"">
+</picture>
   
 ## :closed_lock_with_key: My TryHackMe statistics:
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
