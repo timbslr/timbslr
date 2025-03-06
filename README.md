@@ -1,6 +1,9 @@
 ## Hey :wave:
 
-<img src="CodingFactoryT_Logo_New.png" align ="right">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./CodingFactoryT_Logo_New_Dark.png">
+  <img src="./CodingFactoryT_Logo_New_Light.png" align="right">
+</picture>
 
 I'm a young software and hardware developer from Germany. <br>
 I'm interested in Arduino hardware programming, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
