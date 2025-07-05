@@ -18,22 +18,22 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
   <br>
   
 ### My Website
-<a href="https://timbaesler.github.io/">https://codingfactoryt.github.io/</a>
+<a href="https://timbaesler.github.io/">https://timbaesler.github.io/</a>
 
 <br>
 
 ## :bar_chart: My GitHub statistics: 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight">
-  <img alt="CodingFactoryT's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=shadow_blue"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=timbaesler&theme=tokyonight">
+  <img alt="Tim's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=timbaesler&theme=shadow_blue"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495&layout=compact">
-  <img alt="CodingsFactoryT's GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=shadow_blue&card_width=495&layout=compact"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=timbaesler&theme=tokyonight&card_width=495&layout=compact">
+  <img alt="Tims's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=timbaesler&theme=shadow_blue&card_width=495&layout=compact"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight">
-  <img alt="CodingsFactoryT's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=shadow_blue"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=timbaesler&theme=tokyonight">
+  <img alt="Tim's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=timbaesler&theme=shadow_blue"">
 </picture>
   
 ## :closed_lock_with_key: My TryHackMe statistics:
