@@ -116,3 +116,4 @@ In the following table, you can see when the different repositories were created
 |24.03.2024|deej                                                                                                |`20`             |
 |25.09.2024|Part-DB-server                                                                                      |`21`             |
 |05.01.2025|PilotChess-Automatic-Chess-Board                                                                    |`22`             |
+|31.07.2025|8-Bit-Breadboard-Computer                                                                           |`23`             |
