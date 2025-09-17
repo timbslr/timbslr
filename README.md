@@ -26,7 +26,7 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=timbslr&theme=tokyonight">
   <img alt="timbslr's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=timbslr&theme=shadow_blue"">
-</picture>
+</picture> <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=timbslr&theme=tokyonight&card_width=495&layout=compact">
   <img alt="CodingsFactoryT's GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=timbslr&theme=shadow_blue&card_width=495&layout=compact"">
