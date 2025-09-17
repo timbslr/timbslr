@@ -96,7 +96,7 @@ In the following table, you can see when the different repositories were created
 |----------|----------------------------------------------------------------------------------------------------|:---------------:|
 |09.01.2022|Visual-Algorithm-Sorter                                                                             |`1`              |
 |09.01.2022|Advent-of-Code                                                                                      |`2`              |
-|11.01.2022|timbslr                                                                                      |`3`              |
+|11.01.2022|timbslr                                                                                             |`3`              |
 |20.02.2022|Random-Person-Generator                                                                             |`4`              |
 |12.03.2022|LeetCode                                                                                            |`5`              |
 |13.05.2022|Abiturrechner                                                                                       |`6`              |
@@ -106,7 +106,7 @@ In the following table, you can see when the different repositories were created
 |09.08.2022|On-Screen-Keyboard                                                                                  |`10`             |
 |22.10.2022|Path-Finding-Visualizer                                                                             |`11`             |
 |31.12.2022|Project-Line-Counter                                                                                |`12`             |
-|10.01.2023|timbslr.github.io                                                                            |`13`             |
+|10.01.2023|timbslr.github.io                                                                                   |`13`             |
 |17.01.2023|Geo-Image-Viewer                                                                                    |`14`             |
 |15.02.2023|PDF-Rotator                                                                                         |`15`             |
 |22.04.2023|Arduino-Mechanum-Wheel-Car                                                                          |`16`             |
