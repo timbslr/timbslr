@@ -18,22 +18,22 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
   <br>
   
 ### My Website
-<a href="https://codingfactoryt.github.io/">https://codingfactoryt.github.io/</a>
+<a href="https://timbslr.github.io/">https://timbslr.github.io/</a>
 
 <br>
 
 ## :bar_chart: My GitHub statistics: 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=tokyonight">
-  <img alt="CodingFactoryT's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=CodingFactoryT&theme=shadow_blue"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=timbslr&theme=tokyonight">
+  <img alt="timbslr's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=timbslr&theme=shadow_blue"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=tokyonight&card_width=495&layout=compact">
-  <img alt="CodingsFactoryT's GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingFactoryT&theme=shadow_blue&card_width=495&layout=compact"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=timbslr&theme=tokyonight&card_width=495&layout=compact">
+  <img alt="CodingsFactoryT's GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=timbslr&theme=shadow_blue&card_width=495&layout=compact"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=tokyonight">
-  <img alt="CodingsFactoryT's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CodingFactoryT&theme=shadow_blue"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=timbslr&theme=tokyonight">
+  <img alt="CodingsFactoryT's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=timbslr&theme=shadow_blue"">
 </picture>
   
 ## :closed_lock_with_key: My TryHackMe statistics:
@@ -96,7 +96,7 @@ In the following table, you can see when the different repositories were created
 |----------|----------------------------------------------------------------------------------------------------|:---------------:|
 |09.01.2022|Visual-Algorithm-Sorter                                                                             |`1`              |
 |09.01.2022|Advent-of-Code                                                                                      |`2`              |
-|11.01.2022|CodingFactoryT                                                                                      |`3`              |
+|11.01.2022|timbslr                                                                                      |`3`              |
 |20.02.2022|Random-Person-Generator                                                                             |`4`              |
 |12.03.2022|LeetCode                                                                                            |`5`              |
 |13.05.2022|Abiturrechner                                                                                       |`6`              |
@@ -106,7 +106,7 @@ In the following table, you can see when the different repositories were created
 |09.08.2022|On-Screen-Keyboard                                                                                  |`10`             |
 |22.10.2022|Path-Finding-Visualizer                                                                             |`11`             |
 |31.12.2022|Project-Line-Counter                                                                                |`12`             |
-|10.01.2023|codingfactoryt.github.io                                                                            |`13`             |
+|10.01.2023|timbslr.github.io                                                                            |`13`             |
 |17.01.2023|Geo-Image-Viewer                                                                                    |`14`             |
 |15.02.2023|PDF-Rotator                                                                                         |`15`             |
 |22.04.2023|Arduino-Mechanum-Wheel-Car                                                                          |`16`             |
