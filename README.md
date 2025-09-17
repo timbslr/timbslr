@@ -43,7 +43,7 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
 ## 3D-Modelling and 3D-Printing
 I design many parts for 3D-Printing, check them out here:
 <ul>
-  <li> <a href="https://www.thingiverse.com/codingfactoryt/designs">Thingiverse</a> </li>
+  <li> <a href="https://www.thingiverse.com/codingt/designs">Thingiverse</a> </li>
   <li> <a href="https://www.printables.com/de/@CodingFactor_1960720">Printables</a> </li>
   <li> <a href="https://makerworld.com/en/@CodingFactoryT">MakerWorld</a> </li>
 
