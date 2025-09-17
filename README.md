@@ -1,8 +1,8 @@
 ## Hey :wave:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./CodingFactoryT_Logo_New_Dark.png">
-  <img src="./CodingFactoryT_Logo_New_Light.png" align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="./TimBslr_Logo_New_Dark.png">
+  <img src="./TimBslr_Logo_New_Light.png" align="right">
 </picture>
 
 I'm a young software and hardware developer from Germany. <br>
