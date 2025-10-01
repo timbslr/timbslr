@@ -89,6 +89,7 @@ In the following table, you can see when I started/ended with the bigger program
 |Summer 2023 |*          |React Native                  |
 |Spring 2024 |*          |LaTeX                         |
 |Winter 2024 |*          |React                         |
+|Summer 2025 |*          |Assembly                      |
 
 `*` means that I work with that programming language/framework until today <br> <br> 
 In the following table, you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
