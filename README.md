@@ -5,6 +5,7 @@
   <img src="./TimBslr_Logo_New_Light.png" align="right" />
 </picture>
 </a>
+
 I'm a young software and hardware developer from Germany. <br>
 I'm interested in hardware programming and development (Arduino, ESP32, ...), compilers, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
 <br>
@@ -16,11 +17,6 @@ I'm interested in hardware programming and development (Arduino, ESP32, ...), co
   <li> Email: <a href="mailto:codingfactoryt@gmail.com">codingfactoryt@gmail.com</a> </li>
 </ul>
   <br>
-  
-### My Website
-<a href="https://timbslr.github.io/">https://timbslr.github.io/</a>
-
-<br>
 
 ## :bar_chart: My GitHub statistics: 
 <picture>
