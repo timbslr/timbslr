@@ -6,8 +6,8 @@
 </picture>
 </a>
 
-I'm a young software and hardware developer from Germany. <br>
-I'm interested in hardware programming and development (Arduino, ESP32, ...), compilers, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
+I'm a young software and hardware developer from Germany, currently studying computer science at TU Darmstadt. <br>
+I'm interested in hardware programming and development (microcontrollers as well as logic circuits (see my [8-Bit Breadboard Computer](https://timbslr.github.io/8-Bit-Breadboard-Computer/) project)), compilers, developing applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
 <br>
 
 ### Contact
@@ -19,26 +19,25 @@ I'm interested in hardware programming and development (Arduino, ESP32, ...), co
   <br>
 
 ## :bar_chart: My GitHub statistics: 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=timbslr&theme=tokyonight">
-  <img alt="timbslr's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=timbslr&theme=shadow_blue"">
-</picture> <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=timbslr&theme=tokyonight&card_width=495&layout=compact">
-  <img alt="CodingsFactoryT's GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=timbslr&theme=shadow_blue&card_width=495&layout=compact"">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=timbslr&theme=tokyonight">
-  <img alt="CodingsFactoryT's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=timbslr&theme=shadow_blue"">
-</picture>
+<div align="center">
 
-## 3D-Modelling and 3D-Printing
-I design many parts for 3D-Printing myself, check them out here:
-<ul>
-  <li> <a href="https://www.thingiverse.com/codingt/designs">Thingiverse</a> </li>
-  <li> <a href="https://www.printables.com/de/@CodingFactor_1960720">Printables</a> </li>
-  <li> <a href="https://makerworld.com/en/@CodingFactoryT">MakerWorld</a> </li>
-</ul>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=timbslr&show_icons=true&theme=tokyonight&card_width=500">
+    <img
+      alt="timbslr's GitHub Statistics"
+      src="https://github-readme-stats-fast.vercel.app/api?username=timbslr&show_icons=true&theme=shadow_blue&card_width=500">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=timbslr&show_icons=true&theme=tokyonight&layout=compact&card_width=500">
+    <img
+      alt="timbslr's GitHub Top Programming Languages"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=timbslr&show_icons=true&theme=shadow_blue&layout=compact&card_width=500">
+  </picture>
+
+</div>
 
 ## :hammer_and_wrench: Skill Set: 
 <p align="center"> 
@@ -68,6 +67,14 @@ I design many parts for 3D-Printing myself, check them out here:
   <a href="https://www.android.com/"><img src="https://skills.syvixor.com/api/icons?i=android" /></a>
   <a href="https://www.autodesk.com/products/fusion-360/overview/"><img src="https://skills.syvixor.com/api/icons?i=autodeskfusion" /></a>
 </p>
+
+## 3D-Modelling and 3D-Printing
+I design many parts for 3D-Printing myself, check them out here:
+<ul>
+  <li> <a href="https://www.thingiverse.com/codingt/designs">Thingiverse</a> </li>
+  <li> <a href="https://www.printables.com/de/@CodingFactor_1960720">Printables</a> </li>
+  <li> <a href="https://makerworld.com/en/@CodingFactoryT">MakerWorld</a> </li>
+</ul>
 
 ## :calendar: Dates
 
