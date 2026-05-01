@@ -46,16 +46,31 @@ I design many parts for 3D-Printing myself, check them out here:
 
 ## :hammer_and_wrench: Skill Set: 
 <p align="center"> 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,java,cpp,assembly,react,reactnative,arduino,esp32,sql,html,css,llvm" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skills.syvixor.com/api/icons?i=javascript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skills.syvixor.com/api/icons?i=typescript" /></a>
+  <a href="https://www.java.com/"><img src="https://skills.syvixor.com/api/icons?i=java" /></a>
+  <a href="https://isocpp.org/get-started"><img src="https://skills.syvixor.com/api/icons?i=cpp" /></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://skills.syvixor.com/api/icons?i=assembly" /></a>
+  <a href="https://react.dev/"><img src="https://skills.syvixor.com/api/icons?i=react" /></a>
+  <a href="https://reactnative.dev/"><img src="https://skills.syvixor.com/api/icons?i=reactnative" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://skills.syvixor.com/api/icons?i=arduino" /></a>
+  <a href="https://en.wikipedia.org/wiki/ESP32"><img src="https://skills.syvixor.com/api/icons?i=esp32" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://skills.syvixor.com/api/icons?i=sql" /></a>
+  <a href="https://developer.mozilla.org/en/docs/Web/HTML"><img src="https://skills.syvixor.com/api/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en/docs/Web/CSS"><img src="https://skills.syvixor.com/api/icons?i=css" /></a>
+  <a href="https://llvm.org/"><img src="https://skills.syvixor.com/api/icons?i=llvm" /></a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,intellijidea,git,github,markdown,npm,uml,latex,android,autodeskfusion" />
-  </a>
-</p>
+  <a href="https://code.visualstudio.com/"><img src="https://skills.syvixor.com/api/icons?i=visualstudiocode" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skills.syvixor.com/api/icons?i=intellijidea" /></a>
+  <a href="https://git-scm.com/"><img src="https://skills.syvixor.com/api/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skills.syvixor.com/api/icons?i=github" /></a>
+  <a href="https://en.wikipedia.org/wiki/Markdown/"><img src="https://skills.syvixor.com/api/icons?i=markdown" /></a>
+  <a href="https://www.npmjs.com/"><img src="https://skills.syvixor.com/api/icons?i=npm" /></a>
+  <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language/"><img src="https://skills.syvixor.com/api/icons?i=uml" /></a>
+  <a href="https://www.latex-project.org/"><img src="https://skills.syvixor.com/api/icons?i=latex" /></a>
+  <a href="https://www.android.com/"><img src="https://skills.syvixor.com/api/icons?i=android" /></a>
+  <a href="https://www.autodesk.com/products/fusion-360/overview/"><img src="https://skills.syvixor.com/api/icons?i=autodeskfusion" /></a>
 </p>
 
 ## :calendar: Dates
