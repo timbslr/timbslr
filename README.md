@@ -6,7 +6,7 @@
 </picture>
 
 I'm a young software and hardware developer from Germany. <br>
-I'm interested in Arduino hardware programming, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
+I'm interested in hardware programming and development (Arduino, ESP32, ...), compilers, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
 <br>
 
 ### Contact
@@ -35,10 +35,6 @@ I'm interested in Arduino hardware programming, developing useful and fun applic
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=timbslr&theme=tokyonight">
   <img alt="CodingsFactoryT's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=timbslr&theme=shadow_blue"">
 </picture>
-  
-## :closed_lock_with_key: My TryHackMe statistics:
-<img src="https://tryhackme-badges.s3.amazonaws.com/CodingFactoryT.png" alt="TryHackMe">
-<be>
 
 ## 3D-Modelling and 3D-Printing
 I design many parts for 3D-Printing myself, check them out here:
@@ -46,33 +42,20 @@ I design many parts for 3D-Printing myself, check them out here:
   <li> <a href="https://www.thingiverse.com/codingt/designs">Thingiverse</a> </li>
   <li> <a href="https://www.printables.com/de/@CodingFactor_1960720">Printables</a> </li>
   <li> <a href="https://makerworld.com/en/@CodingFactoryT">MakerWorld</a> </li>
-
 </ul>
 
-## :hammer_and_wrench: Languages and Tools: 
+## :hammer_and_wrench: Skill Set: 
 <p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="100" height="100"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="100" height="100"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/></a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/9748/9748677.png" alt="asm" width="100" height="100"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="100" height="100"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/></a>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,java,cpp,assembly,react,reactnative,arduino,esp32,sql,html,css,llvm" />
+  </a>
 </p>
-
-<br>
-<br>
-
 <p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/></a>  
-  <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376333/latex.svg" alt="latex" width="100" height="100"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,intellijidea,git,github,markdown,npm,uml,latex,android,autodeskfusion" />
+  </a>
+</p>
 </p>
 
 ## :calendar: Dates
