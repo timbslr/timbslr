@@ -1,10 +1,10 @@
 ## Hey :wave:
-
+<a href="https://timbslr.github.io/"> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./TimBslr_Logo_New_Dark.png">
-  <img src="./TimBslr_Logo_New_Light.png" align="right">
+  <img src="./TimBslr_Logo_New_Light.png" align="right" />
 </picture>
-
+</a>
 I'm a young software and hardware developer from Germany. <br>
 I'm interested in hardware programming and development (Arduino, ESP32, ...), compilers, developing useful and fun applications (e.g. the "SP Vertretungsplan" app, the geoimageviewer or my Visual Algorithm Sorter) as well as writing algorithms to solve problems, like the ones of [Advent of Code](https://adventofcode.com) or [LeetCode](https://leetcode.com).
 <br>
