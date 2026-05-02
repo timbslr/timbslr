@@ -18,7 +18,7 @@ I'm interested in hardware programming and development (microcontrollers as well
 </ul>
   <br>
 
-## :bar_chart: My GitHub statistics: 
+## :bar_chart: My GitHub Statistics: 
 <div align="center">
 
   <picture>
@@ -68,7 +68,16 @@ I'm interested in hardware programming and development (microcontrollers as well
   <a href="https://www.autodesk.com/products/fusion-360/overview/"><img src="https://skills.syvixor.com/api/icons?i=autodeskfusion" /></a>
 </p>
 
-## 3D-Modelling and 3D-Printing
+## :mantelpiece_clock: Other things I tried out in the past
+
+<p align="center">
+  <a href="https://unity.com/"><img src="https://skills.syvixor.com/api/icons?i=unity" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skills.syvixor.com/api/icons?i=csharp" /></a>
+  <a href="https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language"><img src="https://skills.syvixor.com/api/icons?i=xaml" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/"><img src="https://skills.syvixor.com/api/icons?i=dotnet" /></a>
+</p>
+
+## :ice_cube: 3D-Modelling and 3D-Printing
 I design many parts for 3D-Printing myself, check them out here:
 <ul>
   <li> <a href="https://www.thingiverse.com/codingt/designs">Thingiverse</a> </li>
@@ -77,22 +86,6 @@ I design many parts for 3D-Printing myself, check them out here:
 </ul>
 
 ## :calendar: Dates
-
-In the following table, you can see when I started/ended with the bigger programming languages: <br>
-
-|Date started|Date ended |Programming Language/Framework|
-|:----------:|:---------:|:----------------------------:|
-|Summer 2020 |*          |Arduino (C, C++)   	          |
-|Spring 2021 |Autumn 2021|Unity (C#)                    |
-|Autumn 2021 |*          |C/C++                         |
-|Winter 2021 |*          |Java                          |
-|Summer 2022 |Autumn 2023|C#/WPF                        |
-|Summer 2023 |*          |React Native                  |
-|Spring 2024 |*          |LaTeX                         |
-|Winter 2024 |*          |React                         |
-|Summer 2025 |*          |Assembly                      |
-
-`*` means that I work with that programming language/framework until today <br> <br> 
 In the following table, you can see when the different repositories were created (date-format: DD.MM.YYYY): <br>
 
 |Date      |Repository Name                                                                                     |Repository Number|
