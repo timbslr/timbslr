@@ -115,3 +115,4 @@ In the following table, you can see when the different repositories were created
 |31.07.2025|8-Bit-Breadboard-Computer                                                                           |`23`             |
 |22.10.2025|Driving-Madness                                                                                     |`24`             |
 |05.11.2025|customasm-toolbox                                                                                   |`25`             |
+|27.08.2026|llvm-project                                                                                        |`26`             |
